@@ -1,0 +1,40 @@
+Merci d'avoir installer mon pack !
+
+Il vous faudras aussi la vSync pour activer la neige !
+
+------------------------------------------------------------------------------------
+
+Copier dans le server.cfg :
+
+
+#--Map Noel--#
+
+start noel1
+start noel2
+start noel3
+start noel4
+start noel5
+
+#--Neige--#
+
+start Neige
+
+
+------------------------------------------------------------------------------------
+
+Les discord Hyped :
+
+Leak : https://discord.gg/7FptJpScWT
+Dev : https://discord.gg/SJGZu2qvcA
+
+
+------------------------------------------------------------------------------------
+
+Merci de ne pas revendre ou de s'approprié mon pack !
+
+----------
+
+Joyeux Noël
+
+
+By Tistou
